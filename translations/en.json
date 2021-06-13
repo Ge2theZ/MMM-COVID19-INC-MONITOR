@@ -1,0 +1,9 @@
+{
+    "Loading": "Loading...",
+    "County": "County",
+    "State": "State",
+    "Incidence": "7-day Incidence",
+    "DeltaCases": "Δ Cases",
+    "DeltaDeaths": "Δ Deaths",
+    "DeltaRecovered": "Δ Recovered"
+}

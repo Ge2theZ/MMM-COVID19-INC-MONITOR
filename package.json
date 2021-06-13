@@ -1,0 +1,21 @@
+{
+  "name": "mmm-covid19-inc-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-COVID19-INC-MONITOR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ge2theZ/MMM-COVID19-INC-MONITOR.git"
+  },
+  "author": "Giuseppe Ferrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ge2theZ/MMM-COVID19-INC-MONITOR/issues"
+  },
+  "homepage": "https://github.com/Ge2theZ/MMM-COVID19-INC-MONITOR#readme",
+  "dependencies": {
+  }
+}

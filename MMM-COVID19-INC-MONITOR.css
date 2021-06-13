@@ -1,0 +1,20 @@
+.MMM-COVID19-INC-MONITOR {
+  text-align: left;
+}
+
+.incidenceTable {
+  font-size: 20px;
+}
+
+thead {
+  font-weight: bold;
+  line-height: normal;
+}
+
+td {
+  padding:0 15px;
+}
+
+tbody tr {
+  line-height: normal;
+}
